@@ -1,6 +1,6 @@
 # MKS-Monster8
 ## Hardware
-  - MUC is STM32F407VGT6, 168MHz, 1M flash, 192KB RAM
+  - MUC is STM32F407VET6, 168MHz, 512K flash, 192KB RAM
   - DC12-24V input(2 MP1584EN Output DC12V(For FANs) and DC5V)
   - 4 heaters + 4 temps interface(H-BED,HE0,HE1,HE2; TB, TH0,TH1,TH2)
   - 3 PWM FANs + 3 power output(all power can be select by jumper and select VIN, dc12V, dc5V)
@@ -30,7 +30,7 @@
   - MKS Monster8 manual, you can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Monster8/wiki)
   - The [marlin 2.0.x firmware](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)
   - The [Klipper firmware](https://github.com/KevinOConnor/klipper)
-  - [MKS Monster8 klipper firmware bin file](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Monste8)
+  - [MKS Monster8 klipper firmware bin file](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Monster8)
 
 ## How to buy
   - [MKS Monste8](https://makerbase.aliexpress.com/store/1047297)
