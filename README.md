@@ -1,6 +1,6 @@
 # MKS-Monster8
 ## Hardware
-  - MUC is STM32F407VET6, 168MHz, 512K flash, 192KB RAM
+  - MCU is STM32F407VET6, 168MHz, 512K flash, 192KB RAM
   - DC12-24V input(2 MP1584EN Output DC12V(For FANs) and DC5V)
   - 4 heaters + 4 temps interface(H-BED,HE0,HE1,HE2; TB, TH0,TH1,TH2)
   - 3 PWM FANs + 3 power output(all power can be select by jumper and select VIN, dc12V, dc5V)
