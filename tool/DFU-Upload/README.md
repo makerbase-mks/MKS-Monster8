@@ -11,3 +11,5 @@
   - DFU-Upload-firmware.bat
   
 - Tips: Can not be modified bootloader's or firmware's file name. Otherwise, DFU cannot be update it.
+
+- More information refer to: https://github.com/makerbase-mks/MKS-Monster8/wiki/DFU_upload
