@@ -33,7 +33,7 @@
   - [MKS Monster8 klipper firmware bin file](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Monster8)
 
 ## How to buy
-  - [MKS Monste8](https://makerbase.aliexpress.com/store/1047297)
+  - [MKS Monste8](https://www.aliexpress.com/item/1005003292898244.html)
 
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
