@@ -1,4 +1,6 @@
 # MKS-Monster8
+  Where to buy it: https://www.aliexpress.com/item/1005003292898244.html
+  
 ## Hardware
   - MCU is STM32F407VET6, 168MHz, 512K flash, 192KB RAM
   - DC12-24V input(2 MP1584EN Output DC12V(For FANs) and DC5V)
@@ -31,9 +33,6 @@
   - The [marlin 2.0.x firmware](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)
   - The [Klipper firmware](https://github.com/KevinOConnor/klipper)
   - [MKS Monster8 klipper firmware bin file](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Monster8)
-
-## How to buy
-  - [MKS Monste8](https://www.aliexpress.com/item/1005003292898244.html)
 
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
