@@ -29,7 +29,7 @@
 	- Udisk update
 
 ## STL files for MKS Monster8 and mini12864 V3.0
-You can download from [Github](https://github.com/makerbase-mks/MKS-Monster8/tree/main/STL) or from [Thinkiverse-MKS Monster](https://www.thingiverse.com/thing:4977292
+You can download from [Github](https://github.com/makerbase-mks/MKS-Monster8/tree/main/STL) or from [Thinkiverse-MKS Monster8](https://www.thingiverse.com/thing:4977292
 ),[Thinkiverse-MKS Mini12864 V3.0](https://www.thingiverse.com/thing:4918948)
 ## Related tutorials and Notice
   - MKS Monster8 manual, you can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Monster8/wiki)
