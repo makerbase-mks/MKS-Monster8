@@ -18,6 +18,7 @@
   - Support TMC UART and SPI mode, SENSORLESS_HOMING function(Diag0-5,connect to X-,Y-,Z-,X+,Y+,Z+)
   - Support driver power select(5V or 3.3V)
   - Has TVS power spike protection
+  - **Possess power reverse connection protection function**
   - Support DFU mode set by button(Boot0)
 
 ## Firmware
