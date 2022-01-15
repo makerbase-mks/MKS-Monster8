@@ -41,4 +41,5 @@ You can download from [Github](https://github.com/makerbase-mks/MKS-Monster8/tre
 ## Note
 - Thank you for using MKS products. If you have any questions during use, please contact us in time and we will work with you to solve it.
 - For more product dynamic information and tutorial materials, you can always follow MKS's Facebook and GitHub and YouTube. Thank you!
-![](https://github.com/makerbase-mks/MKS-Robin-Nano/blob/master/hardware/Image/MKS_FGA.png)
+![mks_link](https://user-images.githubusercontent.com/12979070/149611624-5dee1722-9d35-4636-b23b-3d306bc16d5a.png)
+
