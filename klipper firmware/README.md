@@ -1,4 +1,3 @@
-# README
 
 ## To compile for klipper firmware:
 1) Connect to your printer via SSH
