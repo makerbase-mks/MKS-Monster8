@@ -1,4 +1,10 @@
 # MKS-Monster8-Hardware
+- V2.0_003 Version
+  - Change it from V2.0_002 Version
+  - X-, Y-, Z-, MT-DET interface power only use 5V
+  - Z+ power can be select as **VIN** or **5V**, default jump to 5V
+  - Version 002 change to 003
+
 - V2.0_002 Version
   - Change it from V1.0_003 version
   - The drive signal is drawn out using the Header 1X4
