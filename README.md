@@ -35,7 +35,8 @@
 You can download from [Github](https://github.com/makerbase-mks/MKS-Monster8/tree/main/STL) or from [Thinkiverse-MKS Monster8](https://www.thingiverse.com/thing:4977292
 ),[Thinkiverse-MKS Mini12864 V3.0](https://www.thingiverse.com/thing:4918948)
 ## Related tutorials and Notice
-  - MKS Monster8 manual, you can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Monster8/wiki)
+  - MKS Monster8 V1.0 manual, you can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Monster8/wiki)
+  - MKS Monster8 V2.0 manual, you can refer to Wiki.[click here](https://github.com/makerbase-mks/MKS-Monster8/wiki/MKS_MONSTER8_V2_manual_based_on_Klipper_firmware_to_configure_Voron_2_4_machine)
   - The [marlin 2.0.x firmware](https://github.com/MarlinFirmware/Marlin/tree/bugfix-2.0.x)
   - The [Klipper firmware](https://github.com/KevinOConnor/klipper)
   - [MKS Monster8 klipper firmware bin file](https://github.com/makerbase-mks/Klipper-for-MKS-Boards/tree/main/MKS%20Monster8)
